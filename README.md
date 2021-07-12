@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evandrogibicoski
-- 👀 I’m interested in iOS/Android app development.
-- 🌱 I’m currently learning React Native and Flutter.
+- 👀 I’m developing iOS/Android apps using Swit/Objective-C, Java/Kotlin, React Native, and Ionic.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on mobile app developer role.
 
 <!---
